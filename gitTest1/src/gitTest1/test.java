@@ -8,6 +8,7 @@ public class test {
 			System.out.println("수정");
 		
 			System.out.println("dkjdkjdk");
+			System.out.println("충돌");
 	}
 
 }
