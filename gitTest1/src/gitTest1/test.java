@@ -9,6 +9,7 @@ public class test {
 		
 			System.out.println("dkjdkjdk");
 			System.out.println("충돌");
+			System.out.println("충돌아님");
 	}
 
 }
