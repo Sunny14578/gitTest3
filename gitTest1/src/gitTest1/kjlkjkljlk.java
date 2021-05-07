@@ -6,6 +6,7 @@ public class kjlkjkljlk {
 		// TODO Auto-generated method stub
 		
 		System.out.println("깃은쉬워요");
+		System.out.println("gggg");
 
 	}
 
